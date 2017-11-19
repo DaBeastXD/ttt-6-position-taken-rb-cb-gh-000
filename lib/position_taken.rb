@@ -5,6 +5,6 @@ board[index]
 if board[index] == " " || "" || nil
  false
 
-else return true
+else true
 end
 end
