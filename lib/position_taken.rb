@@ -7,4 +7,4 @@ if board[index] == " " || "" || nil
 
 else true
 end
-end
+
